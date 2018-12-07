@@ -95,5 +95,18 @@
 * Gateway Virtual Tape Library 
     * USed for backup and uses popular back up apps like NetBackup, BackupExec, Veeam etc
 
+### Snowball 
+
+* Snowball 
+
+* Snowball Edge - storage and compute capabiliteis 
+
+* Snowmobile -- 100 Petabytes of strage.45 foot container
+
+### s3 Trandfger Acceleration
+
+* Can Speed up transfers to s3. Cost extra
+
+### You can s3 to hosts static websites
 
 
